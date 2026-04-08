@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Register to become a volunteer at FEED THE FUTURE NPO. Help us serve meals and manage community gardens in Johannesburg.">
+    <title>Volunteer Registration | FEED THE FUTURE NPO</title>
+</head>
+<body>
+
+     <!--Consistent Header across all pages-->
+     <header>
+        <nav class="navbar">
+            <div class="logo">
+                <img src="images/download (1).jpg" alt="FEED THE FUTURE logo">
+                <h2>FEED THE FUTURE</h2>
+            </div> 
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="impact.html">Our Impact</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="volunteer.html">Volunteer</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!--page introduction-->
+        <section class="volunteer-intro">
+            <h1>Join The Movement</h1>
+            <p>Ready to make a difference? Fill out the form below to register as a volunteer for our school feeding programs.</p>
+        </section>
+
+        <hr>
+
+        <!--Registration form-->
+        <section class="registration-form">
+            <h2>Volunteer Application Form</h2>
+
+            <form action="#" method="post">
+
+                <fieldset>
+                    <legend>Personal Details</legend>
+
+                    <p>
+                        <label for="full-name">full name:</label><br>
+                        <input type="text" id="full-name" name="full-name" placeholder="Enter your name" required>
+                    </p>
+
+                    <p>
+                        <label for="email">Email Address:</label><br>
+                        <input type="email" id="email" name="email" placeholder="examlpe@gmail.com" required>
+                    </p>
+
+                    <p>
+                        <label for="phone">Contact Number:</label><br>
+                        <input type="tel" id="phone" name="phone" placeholder="011 123 4567" required>
+                    </p>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Volunteer Preferences</legend>
+
+                    <!--Dropdown select menu-->
+                    <p>
+                        <label for="location">Preffered location:</label><br>
+                        <select name="location" id="location">
+                            <option value="">-- Please choose a location </option>
+                            <option value="Soweto">Soweto</option>
+                            <option value="Alexandra">Alexandra</option>
+                            <option value="Braamfontein">Braamfontein</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </p>
+
+                    <!--Radio buttons-->
+                    <p>Availability:</p>
+                    <input type="radio" id="morning" name="shift" value="morning">
+                    <label for="morning">Morning Shift (07:00 - 11:00)</label><br>
+                    <input type="radio" id="afternoon" name="shift" value="afternoon">
+                    <label for="afternoon">Afternoon Shift (12:00 - 16:00)</label>
+
+                    <!--Checkboxes-->
+                    <p>Areas of Interst (Select all that apply):</p>
+                    <input type="checkbox" id="cooking" name="interest" value="cooking">
+                    <label for="cooking">Meal Preparation/Cooking</label><br>
+                    <input type="checkbox" name="interest" id="gardening" value="gardening">
+                    <label for="gardening">Community Gardening</label><br>
+                    <input type="checkbox" name="interest" id="admin" value="admin">
+                    <label for="admin">Administrative Support</label>
+                </fieldset>
+
+                <fieldset>
+
+                    <!--Form submission buttons-->
+                    <p>
+                        <button type="submit">Submit Application</button>
+                        <button type="reset">Clear form</button>
+                    </p>
+                </fieldset>
+
+            </form>
+        </section>
+    </main>
+    
+     <!--Footer Area-->
+   <footer>
+     <p>&copy; 2026 FEED THE FUTURE NPO. All Rights Reserved.</p>
+     <p>Contact us: <a href="malito: info@feedthefuture.org.za">info@feedthefuture.org.za</a></p>
+     <p>Follow us on Social Media:
+        <a href="https://www.facebook.com/profile.php?id=61584446915821">Facebook</a>|
+        <a href="https://www.instagram.com/feedthefuture_/">Instagram</a>
+    
+</body>
+</html>
