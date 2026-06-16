@@ -9,17 +9,10 @@
 *   **Development Utility:** Visual Studio Code IDE Architecture Pipeline  
 
 
----
-
-
 ## 1. Project Goal
 The **Feed The Future** multi-page website serves as an informational platform for a South African Non-Profit Organisation (NPO) combating primary school classroom hunger across Gauteng. 
 
-
 The build focuses strictly on **Introductory HTML5 Structure** and **Foundational CSS Core Properties**. It provides a lightweight user experience across desktops and mobile web viewports without using complex structural layout frameworks or preprocessors.
-
-
----
 
 
 ## 2. Directory & Application File Tree Layout
@@ -47,21 +40,13 @@ FeedTheFuture_POE/
     ├─  group of volunteers.jpg         # Gallery Documentation Graphic Matrix Item
     ├── studentholdigapple.jpg          # Gallery Documentation Graphic Matrix Item
     └── volunteers.jpg                  # Gallery Documentation Graphic Matrix Item
-```
-
-
----
-
 
 ## 3. Structural Breakdown (Task 1 Architecture)
 The project structure uses foundational, accessible HTML coding principles:
 *   **Semantic Organizers:** Built with distinct layout divisions (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>`) instead of generic structural dividers (`<div>`).
 *   **Data Arrays:** Custom data layouts were engineered inside `impact.html` via a structural definition list (`<dl>`), as well as a semantic financial matrix grid (`<table>`) complete with structural sub-elements (`<thead>`, `<tbody>`, `<tfoot>`, `<caption>`).
 *   **Data Forms:** Features an administrative capture form layout inside `volunteer.html`, complete with varied input fields (`text`, `email`, `tel`, `radio`, `checkbox`, `select`) properly bound to text placeholders using explicit accessibility configurations (`id=""` tracking `for=""` label tags).
-
-
 ---
-
 
 ## 4. Visual Layout Strategy (Task 2 Properties)
 The system styling relies on introductory CSS design principles to handle interface positioning, visibility, and page flow:
@@ -108,58 +93,5 @@ The Independent Institute of Education (The IIE). 2025. *IIE Harvard Style Refer
 W3Schools. 2026. *CSS Introduction*. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
 
 
-W3Schools. 2026. *CSS Responsive Web "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-utline. Sandton: The 
-
-
+W3Schools. 2026. *CSS Responsive Web. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
 
