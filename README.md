@@ -82,37 +82,37 @@ To preview your work before evaluation:
 ## 6. GUI
 <figure>
     <figcaption>HOMEPAGE</figcaption>
-    <img src="images/Screenshot 2026-06-19 183149.png" alt="homepage" width="300">
-    <img src="images/Screenshot 2026-06-19 183341.png" alt="homepage" width="300">
+    <img src="images/Screenshot 2026-06-19 183149.png" alt="homepage">
+    <img src="images/Screenshot 2026-06-19 183341.png" alt="homepage">
 </figure>
 
 <figure>
     <figcaption>ABOUT US</figcaption>
-    <img src="images/Screenshot 2026-06-19 183406.png" alt="about us" width="300">
-    <img src="images/Screenshot 2026-06-19 183418.png" alt="about us" width="300">
+    <img src="images/Screenshot 2026-06-19 183406.png" alt="about us">
+    <img src="images/Screenshot 2026-06-19 183418.png" alt="about us">
 </figure>
 
 <figure>
     <figcaption>OUR IMPACT</figcaption>
-    <img src="images/Screenshot 2026-06-19 183459.png" alt="our impact" width="300">
-    <img src="images/Screenshot 2026-06-19 183529.png" alt="our impact" width="300">
+    <img src="images/Screenshot 2026-06-19 183459.png" alt="our impact">
+    <img src="images/Screenshot 2026-06-19 183529.png" alt="our impact">
 </figure>
 
 <figure>
     <figcaption>OUR IMPACT GALLERY</figcaption>
-    <img src="images/Screenshot 2026-06-19 183555.png" alt="our gallery" width="300">
-    <img src="images/Screenshot 2026-06-19 183606.png" alt="our gallery" width="300">
+    <img src="images/Screenshot 2026-06-19 183555.png" alt="our gallery">
+    <img src="images/Screenshot 2026-06-19 183606.png" alt="our gallery">
 </figure>
 
 <figure>
     <figcaption>VOLUNTEER FORM</figcaption>
-    <img src="images/Screenshot 2026-06-19 183838.png" alt="volunteer form" width="300">
-    <img src="images/Screenshot 2026-06-19 183854.png" alt="vplunteer form" width="300">
+    <img src="images/Screenshot 2026-06-19 183838.png" alt="volunteer form">
+    <img src="images/Screenshot 2026-06-19 183854.png" alt="volunteer form">
 </figure>
 
 <figure>
     <figcaption>CONTACT US</figcaption>
-    <img src="images/Screenshot 2026-06-19 183930.png" alt="contact us" width="300">
+    <img src="images/Screenshot 2026-06-19 183930.png" alt="contact us">
 </figure>
 
 ---
