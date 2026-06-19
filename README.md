@@ -5,14 +5,14 @@
 *   **Institution Site:** IIE Rosebank College  
 *   **Module Code Label:** WEDE5020 (Introduction to Web Development Project)  
 *   **Artifact Type:** Portfolio of Evidence (POE) Submission Document  
-*   **Current Development Phase:** Task 1 & Task 2 Execution Review  
+*   **Current Development Phase:** Task 1 & Task 2 & Task 3
 *   **Development Utility:** Visual Studio Code IDE Architecture Pipeline  
 
 
 ## 1. Project Goal
 The **Feed The Future** multi-page website serves as an informational platform for a South African Non-Profit Organisation (NPO) combating primary school classroom hunger across Gauteng. 
 
-The build focuses strictly on **Introductory HTML5 Structure** and **Foundational CSS Core Properties**. It provides a lightweight user experience across desktops and mobile web viewports without using complex structural layout frameworks or preprocessors.
+The build focuses strictly on **Introductory HTML5 Structure** and **Foundational CSS Core Properties** and **JavaScript**. It provides a lightweight user experience across desktops and mobile web viewports without using complex structural layout frameworks or preprocessors.
 
 
 ## 2. Directory & Application File Tree Layout
@@ -29,6 +29,9 @@ FeedTheFuture_POE/
 │
 ├── css/
 │   └── style.css           # Global Basic Positioning Rules Stylesheet Layer
+|
+|--JavaScript
+|   \script.js              
 │
 └── images/
     ├── download(1).png                 # Visual Identity Asset
@@ -73,6 +76,44 @@ To preview your work before evaluation:
 3. Open `index.html` to load the application tree wrapper.
 4. Test the site flow by clicking through the header link options to verify your pathing setups.
 
+---
+
+
+## 6. GUI
+<figure>
+    <figcaption>HOMEPAGE</figcaption>
+    <img src="images/Screenshot 2026-06-19 183149.png" alt="homepage" width="300">
+    <img src="images/Screenshot 2026-06-19 183341.png" alt="homepage" width="300">
+</figure>
+
+<figure>
+    <figcaption>ABOUT US</figcaption>
+    <img src="images/Screenshot 2026-06-19 183406.png" alt="about us" width="300">
+    <img src="images/Screenshot 2026-06-19 183418.png" alt="about us" width="300">
+</figure>
+
+<figure>
+    <figcaption>OUR IMPACT</figcaption>
+    <img src="images/Screenshot 2026-06-19 183459.png" alt="our impact" width="300">
+    <img src="images/Screenshot 2026-06-19 183529.png" alt="our impact" width="300">
+</figure>
+
+<figure>
+    <figcaption>OUR IMPACT GALLERY</figcaption>
+    <img src="images/Screenshot 2026-06-19 183555.png" alt="our gallery" width="300">
+    <img src="images/Screenshot 2026-06-19 183606.png" alt="our gallery" width="300">
+</figure>
+
+<figure>
+    <figcaption>VOLUNTEER FORM</figcaption>
+    <img src="images/Screenshot 2026-06-19 183838.png" alt="volunteer form" width="300">
+    <img src="images/Screenshot 2026-06-19 183854.png" alt="vplunteer form" width="300">
+</figure>
+
+<figure>
+    <figcaption>CONTACT US</figcaption>
+    <img src="images/Screenshot 2026-06-19 183930.png" alt="contact us" width="300">
+</figure>
 
 ---
 
@@ -93,5 +134,7 @@ The Independent Institute of Education (The IIE). 2025. *IIE Harvard Style Refer
 W3Schools. 2026. *CSS Introduction*. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
 
 
-W3Schools. 2026. *CSS Responsive Web. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
+W3Schools. 2026. *CSS Responsive Web*. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
+
+W3Schools. 2026. *JavaScipt*. [Online]. Available from: https://w3schools.com [Accessed 19 April 2026].
 
